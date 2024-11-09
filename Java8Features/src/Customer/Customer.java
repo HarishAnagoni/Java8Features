@@ -8,7 +8,7 @@ public class Customer {
 	public static void main(String[] args) 
 	{
 		Mobile mobile=new Mobile();
-		mobile.insertSIM(new Idea());
+		mobile.insertSIM(new Idea());//THANK YOU
 	}
 
 }
